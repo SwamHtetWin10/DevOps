@@ -6,4 +6,4 @@ This repository is made for a group project of Edinburgh Napier University.
 **Git** - 2.51.1 \
 **IntelliJ Community Edition** - 2025 \
 
-Mingalar bar
+![workflow](https://github.com/SwamHtetWin10/DevOps/actions/workflows/main.yml/badge.svg)
